@@ -15,19 +15,20 @@ const doiWild = /(doi:.*)\r?\n/g
 const endingPatternStrict = /.*(\d:\d*.\d+)\r?\n|.*(doi:.*)\r?\n/g
 const RESTFULPrefix = "http://xueshu.baidu.com/s?wd="
 const keyword1 = /doi:(.*)/
-const keyword2 = /\. ((?:\w* )*\d*:\d*–\d*)/
+const keyword2 = /(\w*) .*\((\d{4})\).*\. ((?:\w* )*\d*:\d*–\d*)/
 function htmlGen(data){
   var entries = data.split(/\r?\n/)
   var resultTemplate = '<!DOCTYPE html> <html> <head> <meta charset="utf-8"> <title></title> </head> <body>{content}</body> </html>'
-  var hrefTemplate = '<a target="_blank" href="{link}">网上查询</a>'
+  var hrefTemplate = '<a target="_blank" href="'+RESTFULPrefix+'{link}">网上查询</a>'
   var result = ""
   console.log(entries.length)
   entries.forEach(function(e){
     var link = keywordExtract(e)
-    var aTxt = hrefTemplate.replace("{link}",keywordExtract(e))
-    console.log(link)
-    result += '<p>'+e+link?('<br>'+aTxt):''+'</p>'
-    // console.log(result)
+    // var aTxt = hrefTemplate.replace("{link}",keywordExtract(e))
+    result += '<p>'+e+'</p>'
+    if(link!=null){
+      result += '<p>'+hrefTemplate.replace("{link}",link)+'</p>'
+    }
   })
   resultTemplate =  resultTemplate.replace("{content}",result)
   return resultTemplate
@@ -39,7 +40,8 @@ function keywordExtract(str){
   }else{
     var result2 = keyword2.exec(str)
     if(result2){
-      return result2[1]
+      console.log(result2)
+      return result2[1]+'+'+result2[2]+'+'+result2[3]
     }else{
       return null
     }
