@@ -1,219 +1,73 @@
-Angers S, Moon RT (2009) Proximal events in Wnt signal transduction.
-Nat Rev Mol Cell Biol 10:468–477. doi:10.1038/nrm2717
-Arnsdorf EJ, Tummala P, Jacobs CR (2009) Non-canonical Wnt
-signaling and N-cadherin related beta-catenin signaling play a
-role in mechanically induced osteogenic cell fate. PLoS One
+
+Angers S, Moon RT (2009) Proximal events in Wnt signal transduc- tion. Nat Rev Mol Cell Biol 10:468–477. doi:10.1038/nrm2717 Arnsdorf EJ, Tummala P, Jacobs CR (2009) Non-canonical Wnt signaling and N-cadherin related beta-catenin signaling play a role in mechanically induced osteogenic cell fate. PLoS One
 4:e5388. doi:10.1371/journal.pone.0005388
 Baek WY, Lee MA, Jung JW, Kim SY, Akiyama H, de Crombrugghe
-B, Kim JE (2009) Positive regulation of adult bone formation by
-osteoblast-specific transcription factor osterix. J Bone Miner Res
-24:1055–1065. doi:10.1359/jbmr.081248
-Baksh D, Boland GM, Tuan RS (2007) Cross-talk between Wnt
-signaling pathways in human mesenchymal stem cells leads to
-functional antagonism during osteogenic differentiation. J Cell
-Biochem 101:1109–1124. doi:10.1002/jcb.21097
-Baron R, Kneissel M (2013) WNT signaling in bone homeostasis and
-disease: from human mutations to treatments. Nat Med
-19:179–192. doi:10.1038/nm.3074
-Bennett CN, Longo KA, Wright WS, Suva LJ, Lane TF, Hankenson
-KD, MacDougald OA (2005) Regulation of osteoblastogenesis
-and bone mass by Wnt10b. Proc Natl Acad Sci USA
-102:3324–3329. doi:10.1073/pnas.0408742102
-Chang M, Lin H, Luo M, Wang J, Han G (2015) Integrated miRNA
-and mRNA expression profiling of tension force-induced bone
-formation in periodontal ligament cells. In Vitro Cell Dev Biol
-Anim 51:797–807. doi:10.1007/s11626-015-9892-0
-Cui J et al (2016) The effect of calcitriol on high mobility group box 1
-expression in periodontal ligament cells during orthodontic tooth
-movement in rats. J Mol Histol 47:221–228. doi:10.1007/
+B, Kim JE (2009) Positive regulation of adult bone formation by osteoblast-specific transcription factor osterix. J Bone Miner Res 24:1055–1065. doi:10.1359/jbmr.081248
+Baksh D, Boland GM, Tuan RS (2007) Cross-talk between Wnt signaling pathways in human mesenchymal stem cells leads to functional antagonism during osteogenic differentiation. J Cell Biochem 101:1109–1124. doi:10.1002/jcb.21097
+Baron R, Kneissel M (2013) WNT signaling in bone homeostasis and disease: from human mutations to treatments. Nat Med 19:179–192. doi:10.1038/nm.3074
+Bennett CN, Longo KA, Wright WS, Suva LJ, Lane TF, Hankenson KD, MacDougald OA (2005) Regulation of osteoblastogenesis and bone mass by Wnt10b. Proc Natl Acad Sci USA 102:3324–3329. doi:10.1073/pnas.0408742102
+Chang M, Lin H, Luo M, Wang J, Han G (2015) Integrated miRNA and mRNA expression profiling of tension force-induced bone formation in periodontal ligament cells. In Vitro Cell Dev Biol Anim 51:797–807. doi:10.1007/s11626-015-9892-0
+Cui J et al (2016) The effect of calcitriol on high mobility group box 1 expression in periodontal ligament cells during orthodontic tooth
+1 3
+movement in rats. ol 47:221–228. doi:10.1007/
 s10735-016-9669-0
-d’Apuzzo F, Cappabianca S, Ciavarella D, Monsurro A, Silvestrini-
-Biavati A, Perillo L (2013) Biomarkers of periodontal tissue
-remodeling during orthodontic tooth movement in mice and
-men: overview and clinical relevance. Sci World J 2013:105873.
-doi:10.1155/2013/105873
-Di Domenico M et al (2012) Cytokines and VEGF induction in
-orthodontic movement in animal models. J Biomed Biotechnol
-2012:201689. doi:10.1155/2012/201689
-Feller L, Khammissa RA, Schechter I, Thomadakis G, Fourie J,
-Lemmer J (2015) Biological events in periodontal ligament and
-alveolar bone associated with application of orthodontic forces.
-Sci World J 2015:876509. doi:10.1155/2015/876509
-Garlet TP, Coelho U, Silva JS, Garlet GP (2007) Cytokine expression
-pattern in compression and tension sides of the periodontal
-ligament during orthodontic tooth movement in humans. Eur J
-Oral Sci 115:355–362. doi:10.1111/j.1600-0722.2007.00469.x
-He X, Saint-Jeannet JP, Wang Y, Nathans J, Dawid I, Varmus H
-(1997) A member of the frizzled protein family mediating axis
-induction by Wnt-5A. Science 275:1652–1654
-Heo JS, Lee SY, Lee JC (2010) Wnt/beta-catenin signaling enhances
-osteoblastogenic differentiation from human periodontal ligament
-fibroblasts. Mol Cells 30:449–454. doi:10.1007/s10059-
-010-0139-3
-Huang C, Ogawa R (2010) Mechanotransduction in bone repair and
-regeneration. FASEB J 24:3625–3632. doi:10.1096/fj.10-157370
-Ishitani T et al (2003) The TAK1-NLK mitogen-activated protein
-kinase cascade functions in the Wnt-5a/Ca2? pathway to
-antagonize Wnt/beta-catenin signaling. Mol Cell Biol
+d’Apuzzo F, Cappabianca S, Ciavarella D, Monsurro A, Silvestrini- Biavati A, Perillo L (2013) Biomarkers of periodontal tissue remodeling during orthodontic tooth movement in mice and men: overview and clinical relevance. Sci World J 2013:105873. doi:10.1155/2013/105873
+Di Domenico M et al (2012) Cytokines and VEGF induction in orthodontic movement in animal models. J Biomed Biotechnol 2012:201689. doi:10.1155/2012/201689
+Feller L, Khammissa RA, Schechter I, Thomadakis G, Fourie J, Lemmer J (2015) Biological events in periodontal ligament and alveolar bone associated with application of orthodontic forces. Sci World J 2015:876509. doi:10.1155/2015/876509
+Garlet TP, Coelho U, Silva JS, Garlet GP (2007) Cytokine expression pattern in compression and tension sides of the periodontal ligament during orthodontic tooth movement in humans. Eur J Oral Sci 115:355–362. doi:10.1111/j.1600-0722.2007.00469.x
+He X, Saint-Jeannet JP, Wang Y, Nathans J, Dawid I, Varmus H (1997) A member of the frizzled protein family mediating axis induction by Wnt-5A. Science 275:1652–1654
+Heo JS, Lee SY, Lee JC (2010) Wnt/beta-catenin signaling enhances osteoblastogenic differentiation from human periodontal liga- ment fibroblasts. Mol Cells 30:449–454. doi:10.1007/s10059- 010-0139-3
+Huang C, Ogawa R (2010) Mechanotransduction in bone repair and regeneration. FASEB J 24:3625–3632. doi:10.1096/fj.10-157370 Ishitani T et al (2003) The TAK1-NLK mitogen-activated protein kinase cascade functions in the Wnt-5a/Ca2? pathway to antagonize Wnt/beta-catenin signaling. Mol Cell Biol
 23:131–139
 Isogai N et al (2015) Wnt5a stimulates the bone formation in tension
 side during orthodontic tooth movement. Int J Oral Med Sci
 13:8. doi:10.5466/ijoms.13.120
 Jho EH, Zhang T, Domon C, Joo CK, Freund JN, Costantini F (2002)
-Wnt/beta-catenin/Tcf signaling induces the transcription of
-Axin2, a negative regulator of the signaling pathway. Mol Cell
-Biol 22:1172–1183
-Kang KS, Robling AG (2014) New insights into Wnt-Lrp5/6-betacatenin
-signaling in mechanotransduction. Front Endocrinol
-5:246. doi:10.3389/fendo.2014.00246
-Kim JY, Kim BI, Jue SS, Park JH, Shin JW (2012) Localization of
-osteopontin and osterix in periodontal tissue during orthodontic
-tooth movement in rats. Angle Orthod 82:107–114. doi:10.2319/
-030911-173.1
-Kim I, Hur J, Jeong S (2015) HuR represses Wnt/beta-cateninmediated
-transcriptional activity by promoting cytoplasmic
-localization of beta-catenin. Biochem Biophys Res Commun
-457:65–70. doi:10.1016/j.bbrc.2014.12.052
-Kobayashi Y, Uehara S, Udagawa N, Takahashi N (2016) Regulation
-of bone metabolism by Wnt signals. J Biochem 159:387–392.
-doi:10.1093/jb/mvv124
-Krishnan V, Davidovitch Z (2006) Cellular, molecular, and tissuelevel
-reactions to orthodontic force. Am J Orthod Dentofac
-Orthop 129:469 e1–e32. doi:10.1016/j.ajodo.2005.10.007
-Lee SY, Yoo HI, Kim SH (2015) CCR5-CCL Axis in PDL during
-orthodontic biophysical force application. J Dent Res
-94:1715–1723. doi:10.1177/0022034515603926
-Leucht P, Minear S, Ten Berge D, Nusse R, Helms JA (2008)
-Translating insights from development into regenerative medicine:
-the function of Wnts in bone biology. Semin Cell Dev Biol
-19:434–443. doi:10.1016/j.semcdb.2008.09.002
-Li J et al (2015) Altered distribution of HMGB1 in the periodontal
-ligament of periostin-deficient mice subjected to Waldo’s
-orthodontic tooth movement. J Mol Histol 46:303–311. doi:10.
-1007/s10735-015-9619-2
-Lim WH, Liu B, Mah SJ, Yin X, Helms JA (2015) Alveolar bone
-turnover and periodontal ligament width are controlled by Wnt.
-J Periodontol 86:319–326. doi:10.1902/jop.2014.140286
-Lv S et al (2014) Histochemical examination of cathepsin K, MMP1
-and MMP2 in compressed periodontal ligament during orthodontic
-tooth movement in periostin deficient mice. J Mol Histol
-45:303–309. doi:10.1007/s10735-013-9548-x
-Lv S et al (2015) Expression of HMGB1 in the periodontal tissue
-subjected to orthodontic force application by Waldo’s method in
-mice. J Mol Histol 46:107–114. doi:10.1007/s10735-014-9606-z
-Mabuchi R, Matsuzaka K, Shimono M (2002) Cell proliferation and
-cell death in periodontal ligaments during orthodontic tooth
-movement. J Periodontal Res 37:118–124
-Maeda K et al (2012) Wnt5a-Ror2 signaling between osteoblastlineage
-cells and osteoclast precursors enhances osteoclastogenesis.
-Nat Med 18:405–412. doi:10.1038/nm.2653
-Masella RS, Meister M (2006) Current concepts in the biology of
-orthodontic tooth movement. Am J Orthod Dentofac Orthop
-129:458–468. doi:10.1016/j.ajodo.2005.12.013
-Mikels AJ, Nusse R (2006) Purified Wnt5a protein activates or
-inhibits beta-catenin-TCF signaling depending on receptor
-context. PLoS Biol 4:e115. doi:10.1371/journal.pbio.0040115
-Minear S et al (2010) Wnt proteins promote bone regeneration. Sci
-Transl Med 2:29ra30. doi:10.1126/scitranslmed.3000231
-Nemoto E et al (2016) Wnt3a signaling induces murine dental follicle
-cells to differentiate into cementoblastic/osteoblastic cells via an
-osterix-dependent pathway. J Periodontal Res 51:164–174.
-doi:10.1111/jre.12294
-Novackova S, Marek I, Kaminek M (2011) Orthodontic tooth
-movement: bone formation and its stability over time. Am J
-Orthod Dentofac Orthop 139:37–43. doi:10.1016/j.ajodo.2009.
-11.011
-Okamoto M et al (2014) Noncanonical Wnt5a enhances Wnt/betacatenin
-signaling during osteoblastogenesis. Sci Rep 4:4493.
-doi:10.1038/srep04493
-Park HW et al (2015) Alternative Wnt signaling activates YAP/TAZ.
-Cell 162:780–794. doi:10.1016/j.cell.2015.07.013
-Pavlin D, Gluhak-Heinrich J (2001) Effect of mechanical loading on
-periodontal cells. Crit Rev Oral Biol Med 12:414–424
-Pavlin D, Goldman ES, Gluhak-Heinrich J, Magness M, Zadro R
-(2000) Orthodontically stressed periodontium of transgenic
-mouse as a model for studying mechanical response in bone:
-the effect on the number of osteoblasts. Clin Orthod Res 3:55–66
-Qiao LJ, Kang KL, Heo JS (2011) Simvastatin promotes osteogenic
-differentiation of mouse embryonic stem cells via canonical
-Wnt/beta-catenin signaling. Mol Cells 32:437–444. doi:10.1007/
-s10059-011-0107-6
-Robinson JA et al (2006) Wnt/beta-catenin signaling is a normal
-physiological response to mechanical loading in bone. J Biol
-Chem 281:31720–31728. doi:10.1074/jbc.M602308200
-Ross SE, Hemati N, Longo KA, Bennett CN, Lucas PC, Erickson RL,
-MacDougald OA (2000) Inhibition of adipogenesis by Wnt
-signaling. Science 289:950–953
-Sakisaka Y, Tsuchiya M, Nakamura T, Tamura M, Shimauchi H,
-Nemoto E (2015) Wnt5a attenuates Wnt3a-induced alkaline
-phosphatase expression in dental follicle cells. Exp Cell Res
-336:85–93. doi:10.1016/j.yexcr.2015.06.013
-Saloma˜o MFL, Reis SRA, Vale VLC, Machado CV, Meyer R,
-Nascimento ILO (2014) Immunolocalization of FGF-2 and
-VEGF in rat periodontal ligament during experimental tooth
-movement. Dental Press J Orthod 19(3):67–74. doi:10.1590/
-2176-9451.19.3.067-074.oar
-Sawakami K et al (2006) The Wnt co-receptor LRP5 is essential for
-skeletal mechanotransduction but not for the anabolic bone
-response to parathyroid hormone treatment. J Biol Chem
-281:23698–23711. doi:10.1074/jbc.M601000200
-Shi Y et al (2012) Uniaxial mechanical tension promoted osteogenic
-differentiation of rat tendon-derived stem cells (rTDSCs) via the
-Wnt5a-RhoA pathway. J Cell Biochem 113:3133–3142. doi:10.
-1002/jcb.24190
-Sprogar S, Vaupotic T, Cor A, Drevensek M, Drevensek G (2008)
-The endothelin system mediates bone modeling in the late stage
-of orthodontic tooth movement in rats. Bone 43:740–747. doi:10.
-1016/j.bone.2008.06.012
-Taddei SR, Moura AP, Andrade I Jr, Garlet GP, Garlet TP, Teixeira
-MM, da Silva TA (2012) Experimental model of tooth movement
-in mice: a standardized protocol for studying bone
-remodeling under compression and tensile strains. J Biomech
-45:2729–2735. doi:10.1016/j.jbiomech.2012.09.006
-Taddei SR et al (2013) The effect of CCL3 and CCR1 in bone
-remodeling induced by mechanical loading during orthodontic
-tooth movement in mice. Bone 52:259–267. doi:10.1016/j.bone.
-2012.09.036
-Takada I et al (2007) A histone lysine methyltransferase activated by
-non-canonical Wnt signalling suppresses PPAR-gamma transactivation.
-Nat Cell Biol 9:1273–1285. doi:10.1038/ncb1647
-Takimoto A et al (2015) Scleraxis and osterix antagonistically
-regulate tensile force-responsive remodeling of the periodontal
-ligament and alveolar bone. Development 142:787–796. doi:10.
-1242/dev.116228
-Topol L, Jiang X, Choi H, Garrett-Beal L, Carolan PJ, Yang Y (2003)
-Wnt-5a inhibits the canonical Wnt pathway by promoting GSK-
-3-independent beta-catenin degradation. J Cell Biol
-162:899–908. doi:10.1083/jcb.200303158
-Umbhauer M, Djiane A, Goisset C, Penzo-Mendez A, Riou JF,
-Boucaut JC, Shi DL (2000) The C-terminal cytoplasmic Lys-thr-
-X–X–X-Trp motif in frizzled receptors mediates Wnt/betacatenin
-signalling. EMBO J 19:4944–4954. doi:10.1093/emboj/
-19.18.4944
-van Amerongen R, Fuerer C, Mizutani M, Nusse R (2012) Wnt5a can
-both activate and repress Wnt/beta-catenin signaling during
-mouse embryonic development. Dev Biol 369:101–114. doi:10.
-1016/j.ydbio.2012.06.020
-Wang B et al (2014) Expression patterns of WNT/beta-CATENIN
-signaling molecules during human tooth development. J Mol
-Histol 45:487–496. doi:10.1007/s10735-014-9572-5
-Xu J, Li Z, Hou Y, Fang W (2015) Potential mechanisms underlying
-the Runx2 induced osteogenesis of bone marrow mesenchymal
-stem cells. Am J Transl Res 7:2527–2535
-Yamashita Y, Sato M, Noguchi T (1987) Alkaline phosphatase in the
-periodontal ligament of the rabbit and macaque monkey. Arch
-Oral Biol 32:677–678
-Yang C, Tibbitt MW, Basta L, Anseth KS (2014) Mechanical
-memory and dosing influence stem cell fate. Nat Mater
-13:645–652. doi:10.1038/nmat3889
-Yuan YP et al (2016) Canonical and non-canonical Wnt signaling
-control the regeneration of amputated rodent vibrissae follicles.
-J Mol Histol 47:1–8. doi:10.1007/s10735-015-9648-x
-Zainal Ariffin SH, Yamamoto Z, Zainol Abidin IZ, Megat Abdul
-Wahab R, Zainal Ariffin Z (2011) Cellular and molecular
-changes in orthodontic tooth movement. Sci World J
-11:1788–1803. doi:10.1100/2011/761768
-Zhao B, Li L, Wang L, Wang CY, Yu J, Guan KL (2012) Cell
-detachment activates the Hippo pathway via cytoskeleton
-reorganization to induce anoikis. Genes Dev 26:54–68. doi:10.
-1101/gad.173435.111
+Wnt/beta-catenin/Tcf signaling induces the transcription of Axin2, a negative regulator of the signaling pathway. Mol Cell Biol 22:1172–1183
+Kang KS, Robling AG (2014) New insights into Wnt-Lrp5/6-beta- catenin signaling in mechanotransduction. Front Endocrinol 5:246. doi:10.3389/fendo.2014.00246
+Kim JY, Kim BI, Jue SS, Park JH, Shin JW (2012) Localization of osteopontin and osterix in periodontal tissue during orthodontic tooth movement in rats. Angle Orthod 82:107–114. doi:10.2319/ 030911-173.1
+Kim I, Hur J, Jeong S (2015) HuR represses Wnt/beta-catenin- mediated transcriptional activity by promoting cytoplasmic localization of beta-catenin. Biochem Biophys Res Commun 457:65–70. doi:10.1016/j.bbrc.2014.12.052
+Kobayashi Y, Uehara S, Udagawa N, Takahashi N (2016) Regulation of bone metabolism by Wnt signals. J Biochem 159:387–392. doi:10.1093/jb/mvv124
+Krishnan V, Davidovitch Z (2006) Cellular, molecular, and tissue- level reactions to orthodontic force. Am J Orthod Dentofac Orthop 129:469 e1–e32. doi:10.1016/j.ajodo.2005.10.007
+Lee SY, Yoo HI, Kim SH (2015) CCR5-CCL Axis in PDL during orthodontic biophysical force application. J Dent Res 94:1715–1723. doi:10.1177/0022034515603926
+Leucht P, Minear S, Ten Berge D, Nusse R, Helms JA (2008) Translating insights from development into regenerative medi- cine: the function of Wnts in bone biology. Semin Cell Dev Biol 19:434–443. doi:10.1016/j.semcdb.2008.09.002
+Li J et al (2015) Altered distribution of HMGB1 in the periodontal ligament of periostin-deficient mice subjected to Waldo’s orthodontic tooth movement. ol 46:303–311. doi:10. 1007/s10735-015-9619-2
+Lim WH, Liu B, Mah SJ, Yin X, Helms JA (2015) Alveolar bone turnover and periodontal ligament width are controlled by Wnt. J Periodontol 86:319–326. doi:10.1902/jop.2014.140286
+Lv S et al (2014) Histochemical examination of cathepsin K, MMP1 and MMP2 in compressed periodontal ligament during orthodon- tic tooth movement in periostin deficient mice. ol 45:303–309. doi:10.1007/s10735-013-9548-x
+Lv S et al (2015) Expression of HMGB1 in the periodontal tissue subjected to orthodontic force application by Waldo’s method in mice. ol 46:107–114. doi:10.1007/s10735-014-9606-z
+Mabuchi R, Matsuzaka K, Shimono M (2002) Cell proliferation and cell death in periodontal ligaments during orthodontic tooth movement. J Periodontal Res 37:118–124
+Maeda K et al (2012) Wnt5a-Ror2 signaling between osteoblast- lineage cells and osteoclast precursors enhances osteoclastoge- nesis. Nat Med 18:405–412. doi:10.1038/nm.2653
+Masella RS, Meister M (2006) Current concepts in the biology of orthodontic tooth movement. Am J Orthod Dentofac Orthop 129:458–468. doi:10.1016/j.ajodo.2005.12.013
+Mikels AJ, Nusse R (2006) Purified Wnt5a protein activates or inhibits beta-catenin-TCF signaling depending on receptor context. PLoS Biol 4:e115. doi:10.1371/journal.pbio.0040115
+Minear S et al (2010) Wnt proteins promote bone regeneration. Sci Transl Med 2:29ra30. doi:10.1126/scitranslmed.3000231
+Nemoto E et al (2016) Wnt3a signaling induces murine dental follicle cells to differentiate into cementoblastic/osteoblastic cells via an osterix-dependent pathway. J Periodontal Res 51:164–174. doi:10.1111/jre.12294
+Novackova S, Marek I, Kaminek M (2011) Orthodontic tooth movement: bone formation and its stability over time. Am J Orthod Dentofac Orthop 139:37–43. doi:10.1016/j.ajodo.2009. 11.011
+Okamoto M et al (2014) Noncanonical Wnt5a enhances Wnt/beta- catenin signaling during osteoblastogenesis. Sci Rep 4:4493. doi:10.1038/srep04493
+Park HW et al (2015) Alternative Wnt signaling activates YAP/TAZ. Cell 162:780–794. doi:10.1016/j.cell.2015.07.013
+Pavlin D, Gluhak-Heinrich J (2001) Effect of mechanical loading on periodontal cells. Crit Rev Oral Biol Med 12:414–424
+Pavlin D, Goldman ES, Gluhak-Heinrich J, Magness M, Zadro R (2000) Orthodontically stressed periodontium of transgenic mouse as a model for studying mechanical response in bone: the effect on the number of osteoblasts. Clin Orthod Res 3:55–66
+Qiao LJ, Kang KL, Heo JS (2011) Simvastatin promotes osteogenic differentiation of mouse embryonic stem cells via canonical Wnt/beta-catenin signaling. Mol Cells 32:437–444. doi:10.1007/ s10059-011-0107-6
+Robinson JA et al (2006) Wnt/beta-catenin signaling is a normal physiological response to mechanical loading in bone. J Biol Chem 281:31720–31728. doi:10.1074/jbc.M602308200
+Ross SE, Hemati N, Longo KA, Bennett CN, Lucas PC, Erickson RL, MacDougald OA (2000) Inhibition of adipogenesis by Wnt signaling. Science 289:950–953
+Sakisaka Y, Tsuchiya M, Nakamura T, Tamura M, Shimauchi H, Nemoto E (2015) Wnt5a attenuates Wnt3a-induced alkaline phosphatase expression in dental follicle cells. Exp Cell Res 336:85–93. doi:10.1016/j.yexcr.2015.06.013
+Saloma ̃o MFL, Reis SRA, Vale VLC, Machado CV, Meyer R, Nascimento ILO (2014) Immunolocalization of FGF-2 and VEGF in rat periodontal ligament during experimental tooth movement. Dental Press J Orthod 19(3):67–74. doi:10.1590/ 2176-9451.19.3.067-074.oar
+Sawakami K et al (2006) The Wnt co-receptor LRP5 is essential for skeletal mechanotransduction but not for the anabolic bone response to parathyroid hormone treatment. J Biol Chem 281:23698–23711. doi:10.1074/jbc.M601000200
+ 1 3
+ Shi Y et al (2012) Uniaxial mechanical tension promoted osteogenic differentiation of rat tendon-derived stem cells (rTDSCs) via the Wnt5a-RhoA pathway. J Cell Biochem 113:3133–3142. doi:10. 1002/jcb.24190
+Sprogar S, Vaupotic T, Cor A, Drevensek M, Drevensek G (2008) The endothelin system mediates bone modeling in the late stage of orthodontic tooth movement in rats. Bone 43:740–747. doi:10. 1016/j.bone.2008.06.012
+Taddei SR, Moura AP, Andrade I Jr, Garlet GP, Garlet TP, Teixeira MM, da Silva TA (2012) Experimental model of tooth move- ment in mice: a standardized protocol for studying bone remodeling under compression and tensile strains. J Biomech 45:2729–2735. doi:10.1016/j.jbiomech.2012.09.006
+Taddei SR et al (2013) The effect of CCL3 and CCR1 in bone remodeling induced by mechanical loading during orthodontic tooth movement in mice. Bone 52:259–267. doi:10.1016/j.bone. 2012.09.036
+Takada I et al (2007) A histone lysine methyltransferase activated by non-canonical Wnt signalling suppresses PPAR-gamma transac- tivation. Nat Cell Biol 9:1273–1285. doi:10.1038/ncb1647
+Takimoto A et al (2015) Scleraxis and osterix antagonistically regulate tensile force-responsive remodeling of the periodontal ligament and alveolar bone. Development 142:787–796. doi:10. 1242/dev.116228
+Topol L, Jiang X, Choi H, Garrett-Beal L, Carolan PJ, Yang Y (2003) Wnt-5a inhibits the canonical Wnt pathway by promoting GSK- 3-independent beta-catenin degradation. J Cell Biol 162:899–908. doi:10.1083/jcb.200303158
+Umbhauer M, Djiane A, Goisset C, Penzo-Mendez A, Riou JF, Boucaut JC, Shi DL (2000) The C-terminal cytoplasmic Lys-thr-
+
+X–X–X-Trp motif in frizzled receptors mediates Wnt/beta- catenin signalling. EMBO J 19:4944–4954. doi:10.1093/emboj/ 19.18.4944
+van Amerongen R, Fuerer C, Mizutani M, Nusse R (2012) Wnt5a can both activate and repress Wnt/beta-catenin signaling during mouse embryonic development. Dev Biol 369:101–114. doi:10. 1016/j.ydbio.2012.06.020
+Wang B et al (2014) Expression patterns of WNT/beta-CATENIN signaling molecules during human tooth development. ol 45:487–496. doi:10.1007/s10735-014-9572-5
+Xu J, Li Z, Hou Y, Fang W (2015) Potential mechanisms underlying the Runx2 induced osteogenesis of bone marrow mesenchymal stem cells. Am J Transl Res 7:2527–2535
+Yamashita Y, Sato M, Noguchi T (1987) Alkaline phosphatase in the periodontal ligament of the rabbit and macaque monkey. Arch Oral Biol 32:677–678
+Yang C, Tibbitt MW, Basta L, Anseth KS (2014) Mechanical memory and dosing influence stem cell fate. Nat Mater 13:645–652. doi:10.1038/nmat3889
+Yuan YP et al (2016) Canonical and non-canonical Wnt signaling control the regeneration of amputated rodent vibrissae follicles. ol 47:1–8. doi:10.1007/s10735-015-9648-x
+Zainal Ariffin SH, Yamamoto Z, Zainol Abidin IZ, Megat Abdul Wahab R, Zainal Ariffin Z (2011) Cellular and molecular changes in orthodontic tooth movement. Sci World J 11:1788–1803. doi:10.1100/2011/761768
+Zhao B, Li L, Wang L, Wang CY, Yu J, Guan KL (2012) Cell detachment activates the Hippo pathway via cytoskeleton reorganization to induce anoikis. Genes Dev 26:54–68. doi:10. 1101/gad.173435.111
