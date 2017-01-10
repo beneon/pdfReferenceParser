@@ -9,13 +9,13 @@ var data = fs.readFile('ref.txt','utf8',function(err,data){
     console.log('saved!')
   })
 })
-const outputFilename = "search.html"
-const doiReg = /(doi:10\.\d{4}(\.\d+)?\/.*[\w\.\-\/].*[\d\w])\r?\n/g
-const doiWild = /(doi:.*)\r?\n/g
-const endingPatternStrict = /.*(\d:\d*.\d+)\r?\n|.*(doi:.*)\r?\n/g
-const RESTFULPrefix = "http://xueshu.baidu.com/s?wd="
-const keyword1 = /doi:(.*)/
-const keyword2 = /(\w*) .*\((\d{4})\).*\. ((?:\w* )*\d*:\d*–\d*)/
+var outputFilename = "search.html"
+var doiReg = /(doi:10\.\d{4}(\.\d+)?\/.*[\w\.\-\/].*[\d\w])\r?\n/g
+var doiWild = /(doi:.*)\r?\n/g
+var endingPatternStrict = /.*(\d:\d*.\d+)\r?\n|.*(doi:.*)\r?\n/g
+var RESTFULPrefix = "http://xueshu.baidu.com/s?wd="
+var keyword1 = /doi:(.*)/
+var keyword2 = /(\w*) .*\((\d{4})\).*\. ((?:\w* )*\d*:\d*–\d*)/
 function htmlGen(data){
   var entries = data.split(/\r?\n/)
   var resultTemplate = '<!DOCTYPE html> <html> <head> <meta charset="utf-8"> <title></title> </head> <body>{content}</body> </html>'
