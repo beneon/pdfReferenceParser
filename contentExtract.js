@@ -3,15 +3,14 @@ var path = require('path')
 var src = "目次utf8.txt"
 var encoding = "utf-8"
 var outputFilename = "目录.json"
+// 上面的src指定一个utf-8编码的文本文档，outputFilename指定一个输出文件json路径
 var phraseData
-// endingPhrase.json > parsing function
-
-// sectionName: > title 数字-数字
-// 视频讲座/手术录像 title
 var data = fs.readFile(src,encoding,function(err,data){
   sectionCut(data)
 })
-
+function videoFilter(e){
+  return e.section == "手术录像" || e.section == "视频讲座"
+}
 function sectionCut(data){
   const src = "endingPhrase.json"
   var phrases = fs.readFile(src,'utf-8',function(err,phraseLog){
@@ -42,20 +41,26 @@ function sectionCut(data){
         content.push({ttl:e.ttl,content:data.substring(e.ind+e.ttl.length).trim()})
       }
     })
-    content = content.map(entriesCut).map(jsonProcess).reduce(function(a,b){
-      if(b[0].section=="视频讲座" || b[0].section=="手术录像"){
-        return a
-      }else{
+    var content = content.map(entriesCut).map(jsonProcess)
+    var articles = content.filter(function(e){
+      return videoFilter(e[0])
+    }).reduce(function(a,b){
         return a.concat(b)
-      }
     })
-    console.log(content)
+    var videos = content.filter(function(e){
+      return videoFilter(e[0])
+    }).reduce(function(a,b){
+        return a.concat(b)
+    })
+    var result = {"articles":articles,"videos":videos}
+    fs.writeFile('articles.json',JSON.stringify(result))
   })
 }
 function jsonProcess(section){
   section.content.map(function(e){
     e.section = section.ttl
-    e.type = "article"
+    if(e.section == "手术录像") e.type="surgery"
+    if(e.section == "视频讲座") e.type="nakeLecture"
     return e
   })
   return section.content
