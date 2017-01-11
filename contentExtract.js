@@ -42,8 +42,23 @@ function sectionCut(data){
         content.push({ttl:e.ttl,content:data.substring(e.ind+e.ttl.length).trim()})
       }
     })
-    content = content.map(entriesCut)
+    content = content.map(entriesCut).map(jsonProcess).reduce(function(a,b){
+      if(b[0].section=="视频讲座" || b[0].section=="手术录像"){
+        return a
+      }else{
+        return a.concat(b)
+      }
+    })
+    console.log(content)
   })
+}
+function jsonProcess(section){
+  section.content.map(function(e){
+    e.section = section.ttl
+    e.type = "article"
+    return e
+  })
+  return section.content
 }
 function entriesCut(section){
   function entryParse(data,lineDelim){
@@ -61,11 +76,12 @@ function entriesCut(section){
       var author = e.substring(delimIndex).trim()
       return {"title":title,"author":author}
     })
-    console.log(dataArr)
+    return dataArr
   }
   if(section.ttl=="手术录像" || section.ttl=="视频讲座"){
-    entryParse(section.content,/\n/)
+    section.content = entryParse(section.content,/\n/)
   }else{
-    entryParse(section.content,/\d{1,3}\-\d{1,3}/)
+    section.content = entryParse(section.content,/\d{1,3}\-\d{1,3}/)
   }
+  return section
 }
